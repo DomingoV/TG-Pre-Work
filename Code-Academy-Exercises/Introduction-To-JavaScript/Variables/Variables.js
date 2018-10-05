@@ -1,16 +1,1 @@
 // containers of information
-// creates variable and defines it as
-var favoriteFood = 'pizza';
-var numOfSlices = 8;
-console.log(favoriteFood);
-console.log(numOfSlices);
-
-//use let
-let changeMe = true;
-changeMe = false
-console.log(changeMe);
-
-// use const
-const entree = 'Enchiladas'
-console.log(entree);
-const testing;
