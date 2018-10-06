@@ -1,6 +1,6 @@
-async funtion getData() {
+async function getData() => {
   try {
-    const resonse = await fetch('http://api-to-call.com/endpoint');
+    const response = await fetch('http://api-to-call.com/endpoint');
     if (response.ok) {
       const jsonResponse = await response.json();
       //code to execute
