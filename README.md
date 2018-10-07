@@ -30,8 +30,8 @@ Only the latest version
 
 ## What is runtime?
 
-put your answer here
+Time code takes to perform an operation.
 
 ## How many instances of the the databases connected to the server application are created?
 
-put your answer here
+The latest version
