@@ -30,7 +30,7 @@ Only the latest version
 
 ## What is runtime?
 
-Time code takes to perform an operation.
+Time code takes to execute
 
 ## How many instances of the the databases connected to the server application are created?
 
